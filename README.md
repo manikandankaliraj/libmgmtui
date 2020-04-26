@@ -11,5 +11,5 @@ Project tech details :
 
 Api URL :
 backend api URL configured in config.json
-
+Git Repo : https://github.com/manikandankaliraj/libmgmtapi
 Backend prject : libmgmtapi ( spring boot project)
